@@ -1,1 +1,2 @@
 class Show<ActiveRecord
+end 
